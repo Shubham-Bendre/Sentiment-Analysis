@@ -41,7 +41,10 @@ The project uses the **movie reviews** dataset from the NLTK library, which cons
 ## 📸 Screenshots
 
 ### 1️⃣ Main Task Window
-![Main Task Window](./screenshots/mainwindow.png)
+![Main Task Window](./screenshots/main.png)
+
+### 2️⃣ Report
+![Report using a Graph](./screenshots/report.png)
 
 ## 🚀 Usage
 
